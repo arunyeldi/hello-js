@@ -8,7 +8,7 @@ for (let i = 0; i < 5; i++) {
 // 👉 while loop
 let i = 0;
 while (i < 3) {
-  console.log("while i =", i);
+  console.log("Hello ", i);
   i++;
 }
 

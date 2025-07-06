@@ -10,7 +10,7 @@ console.log(a % b);  // 1
 console.log(a ** b); // 1000
 
 // 👉 Comparison Operators
-console.log(5 == "5");     // true (loose equality)
+console.log(5 == "55");     // true (loose equality)
 console.log(5 === "5");    // false (strict equality)
 console.log(5 > 3);        // true
 

@@ -34,7 +34,7 @@ switch (role) {
 
 // ✅ Real-World Example: Battery Status Check
 let isOnline = true;
-let battery = 10;
+let battery = 100;
 let charging = false;
 
 if (isOnline) {

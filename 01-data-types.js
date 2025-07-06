@@ -1,7 +1,7 @@
 // ✅ JavaScript Data Types
 
 // 👉 Primitive Types
-let name = "Arun";           // string
+let name = "Arun Yeldi";           // string
 let age = 22;                // number
 let isStudent = true;        // boolean
 let value;                   // undefined

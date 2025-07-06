@@ -3,3 +3,8 @@ function greet() {
 }
 
 greet();
+
+let greet = () => {
+    console.log("Hello Arun, Welcome to JS...!");
+}
+greet();
