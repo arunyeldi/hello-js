@@ -27,3 +27,12 @@ createOrder(cart)
 .then((orderId) => proceedToPayment(orderId))
 .then((paymentInfo) => showOrderSummary(paymentInfo))
 .then((paymentInfo) => updateWalletBalance(paymentInfo));
+
+/*
+
+Creating a promise using new keyword and 
+a constructor and passing
+the resolve and reject functions given by JavaScript
+and returning it.
+
+*/
